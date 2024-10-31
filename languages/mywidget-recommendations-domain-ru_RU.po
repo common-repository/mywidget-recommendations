@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: myWidget recommendations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-06 17:17+0000\n"
+"PO-Revision-Date: 2017-07-06 17:17+0000\n"
+"Last-Translator: wphero <netspamer@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/class-mywidget-recommendations-view.php:34
+msgid "Widget with personalized recommendations for increasing user metrics."
+msgstr ""
+"Виджет с персонализированными рекомендациями для увеличения пользовательских "
+"метрик."
+
+#: admin/partials/mywidget-recommendations-admin-display.php:25
+#, php-format
+msgid ""
+"To placed the widget at your site go to «Appearance» to «Widgets». After "
+"that click on the myWidget widget, select the type of widget and click on "
+"the button «Add widget». You will be offered to enter the cid of widget, to "
+"get it you should to go to <a target=\"_blank\" href=\"%s\">Widget.my.com</a>"
+", to log in and select the type of widget, after that go to «Settings» and "
+"click on the button «View code»."
+msgstr ""
+"Для установки виджета на сайт вам нужно указать cid. Чтобы его получить вам "
+"нужно перейти в <a target=\"_blank\" href=\"%s\">Widget.my.com</a>, "
+"авторизоваться в системе и выбрать тип виджета. Далее нужно перейти в раздел "
+"«Настройки» и нажать на кнопку «Код виджета»."
+
+#: admin/partials/mywidget-recommendations-admin-display.php:31
+#, php-format
+msgid ""
+"If you don’t have user account in myWidget platform you should to sign in to "
+"the <a target=\"_blank\" href=\"%s\">system</a>."
+msgstr ""
+"Если у вас еще нет учетной записи в системе myWidget вы можете "
+"зарегистрироваться <a href=\"%s\">здесь</a>. "
+
+#. Name of the plugin
+msgid "myWidget Recommendations"
+msgstr "myWidget Рекомендации"
+
+#. Description of the plugin
+msgid "Widget with personalized recommendations for increasing user metrics"
+msgstr ""
+"Виджет с персонализированными рекомендациями для увеличения пользовательских "
+"метрик"
+
+#. URI of the plugin
+msgid "https://widget.my.com"
+msgstr "https://widget.my.com"
+
+#. Author of the plugin
+msgid "widget.my.com"
+msgstr "widget.my.com"
